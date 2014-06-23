@@ -880,6 +880,7 @@
 
 		{ "trigger": "GameRules_State_Get()", "contents": "${1:GameRules}:State_Get()"},
 		{ "trigger": "GameRules_GetGameTime()", "contents": "${1:GameRules}:GetGameTime()"},
+		{ "trigger": "GameRules_GetGameModeEntity()", "contents": "${1:GameRules}:GetGameModeEntity()"},
 		{ "trigger": "GameRules_GetDifficulty()", "contents": "${1:GameRules}:GetDifficulty()"},
 		{ "trigger": "GameRules_GetCustomGameDifficulty()", "contents": "${1:GameRules}:GetCustomGameDifficulty()"},
 		{ "trigger": "GameRules_Defeated()", "contents": "${1:GameRules}:Defeated()"},
