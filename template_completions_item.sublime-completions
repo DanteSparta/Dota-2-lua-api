@@ -1,1 +1,1 @@
-{ "trigger": "%class_%func(%argHint)", "contents": "%class:%func(%args)" }
+{ "trigger": "%class_%func(%argHint)", "contents": "%class:%func(%args)"}
