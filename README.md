@@ -4,7 +4,7 @@ A plugin of Sublime Text 2 snippets to be used with dota2 lua, Most snippets are
 
 ### Installation:
 
-Download the zip file and extract the <dota2 lua api> Folder into Sublime Text2 <Preferences> -> <Browse Packages> ... Directory.
+Download the zip file and extract the {dota2 lua api} Folder into Sublime Text2 {Preferences} -> {Browse Packages} ... Directory.
 
 ### Tab Triggers:
 
